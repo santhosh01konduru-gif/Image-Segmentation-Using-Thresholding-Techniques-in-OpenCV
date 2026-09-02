@@ -1,5 +1,5 @@
 # Image Segmentation Using Thresholding Techniques in OpenCV
-# NAME: KONDURU SANTHOSH#1234
+# NAME: KONDURU SANTHOSH
 # REG.No: 212225240074
 ## Aim
 
