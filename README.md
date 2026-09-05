@@ -58,13 +58,6 @@ Compare the results obtained from Global, Adaptive, and Otsu's thresholding meth
 
 ## Program
 
-## Developed By
-
-**Name:** MUTHUKUMARAN NM
-
-**Register No:** 212225040268
-
-## Output
 ### Original Image
 ```python
 import cv2
